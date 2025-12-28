@@ -15,7 +15,7 @@
 - 👋 Hi, I’m **URDev** — I build tools focused on **security, automation, and developer utilities**
 - 🔍 Interested in **web security**, request analysis, and lightweight recon tools
 - 🛠 I enjoy creating **CLI tools**, experiments, and practical projects
-- 🌱 Always improving my skills in **Python, web technologies, security research, and bug bounty hunting**
+- 🌱 Always improving my skills in **Python, web technologies, and security research**
 - 🎯 Currently learning about OSINT and Offensive Security
 - 🚀 Open to collaboration on interesting open-source projects
 
