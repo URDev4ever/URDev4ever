@@ -5,8 +5,8 @@
   </a>
 </div>
 <div align="center">
-<a href="https://github.com/urdev4ever?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/urdev4ever?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/URDev4ever?tab=followers">
+    <img alt="followers" title="Follow me on Github :D" src="https://custom-icon-badges.demolab.com/github/followers/URDev4ever?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -63,6 +63,12 @@
       <img width="278"
            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=CJChecker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
            alt="CJChecker"></a>
+    <!-- whythis -->
+    <a href="https://github.com/URDev4ever/whythis">
+      <img width="278"
+           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=whythis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+           alt="whythis">
+</a>
   </p>
 </details>
 
