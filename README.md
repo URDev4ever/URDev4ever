@@ -19,58 +19,81 @@
 - 🎯 Currently learning about OSINT and Offensive Security
 - 🚀 Open to collaboration on interesting open-source projects
 
-<details open> 
-  <summary><h2>📘 My Top Repositories</h2></summary>
+
+<details open>
+  <summary><h2>🔥 Top 3 Repos of the Day</h2></summary>
 
   <p align="left">
-    <!-- ScopeX -->
     <a href="https://github.com/URDev4ever/ScopeX">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ScopeX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="ScopeX"></a>
-    <!-- jwtelescope -->
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ScopeX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
     <a href="https://github.com/URDev4ever/jwtelescope">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=jwtelescope&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="jwtelescope"></a>
-    <!-- UIT -->
-    <a href="https://github.com/URDev4ever/UIT">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=UIT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="UIT"></a>
-    <!-- ReCapture -->
-    <a href="https://github.com/URDev4ever/ReCapture">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ReCapture&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="ReCapture"></a>
-    <!-- Skullr -->
-    <a href="https://github.com/URDev4ever/Skullr">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=Skullr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="Skullr"></a>
-    <!-- static -->
-    <a href="https://github.com/URDev4ever/static">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=static&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="static"></a>
-    <!-- ReqEye -->
-    <a href="https://github.com/URDev4ever/ReqEye">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ReqEye&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="ReqEye"></a>
-    <!-- CJChecker -->
-    <a href="https://github.com/URDev4ever/CJChecker">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=CJChecker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="CJChecker"></a>
-    <!-- whythis -->
-    <a href="https://github.com/URDev4ever/whythis">
-      <img width="278"
-           src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=whythis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
-           alt="whythis">
-</a>
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=jwtelescope&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/FUFP">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=FUFP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
   </p>
 </details>
+<details>
+  <summary><h2>📦 Repository Collection</h2></summary>
+
+  <details>
+    <summary><h3>🕵️ Recon & Discovery</h3></summary>
+    <p>
+      <a href="https://github.com/URDev4ever/ScopeX">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ScopeX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+      <a href="https://github.com/URDev4ever/static">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=static&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    </p>
+  </details>
+
+  <details>
+    <summary><h3>🌐 HTTP & Web Analysis</h3></summary>
+    <p>
+      <a href="https://github.com/URDev4ever/ReqEye">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ReqEye&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+      <a href="https://github.com/URDev4ever/ReCapture">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ReCapture&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+      <a href="https://github.com/URDev4ever/CJChecker">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=CJChecker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    </p>
+  </details>
+
+  <details>
+    <summary><h3>💉 Injection & Payloads</h3></summary>
+    <p>
+      <a href="https://github.com/URDev4ever/UIT">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=UIT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+     <a href="https://github.com/URDev4ever/FUFP">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=FUFP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    </p>
+  </details>
+
+  <details>
+    <summary><h3>🔐 Token & Data Inspection</h3></summary>
+    <p>
+      <a href="https://github.com/URDev4ever/jwtelescope">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=jwtelescope&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    </p>
+  </details>
+
+  <details>
+    <summary><h3>🔍 Fuzzing & Content Discovery</h3></summary>
+    <p>
+      <a href="https://github.com/URDev4ever/Skullr">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=Skullr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    </p>
+  </details>
+
+  <details>
+    <summary><h3>🧠 Developer Utilities</h3></summary>
+    <p>
+      <a href="https://github.com/URDev4ever/whythis">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=whythis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    </p>
+  </details>
+
+</details>
+
+
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
