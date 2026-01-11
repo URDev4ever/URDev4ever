@@ -74,6 +74,8 @@
     <p>
       <a href="https://github.com/URDev4ever/jwtelescope">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=jwtelescope&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+      <a href="https://github.com/URDev4ever/clientvault">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=clientvault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
     </p>
   </details>
 
