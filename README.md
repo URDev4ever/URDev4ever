@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 <a href="https://github.com/URDev4ever?tab=followers">
-    <img alt="followers" title="Follow me on Github :D" src="https://custom-icon-badges.demolab.com/github/followers/URDev4ever?color=236ad3&labelColor=1155Ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github :D" src="https://custom-icon-badges.demolab.com/github/followers/uRdev4eVer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
