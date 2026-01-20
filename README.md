@@ -10,6 +10,14 @@
   🇪🇸 <a href="README_ES.md">Español</a>
 </p>
 <h1 align="center">[ ! ] About Me</h1>
+<img
+  width="256"
+  height="256"
+  alt="img"
+  align="right"
+  style="margin-top:+40px; margin-right:-20px;"
+  src="https://github.com/user-attachments/assets/edeaae93-3b8c-41a2-974c-3a3e1053246a"
+/>
 
 - 👋 Hi, I’m **URDev** — I build tools focused on **security, automation, and developer utilities**
 - 🔍 Interested in **web security**, request analysis, and lightweight recon tools
@@ -17,7 +25,7 @@
 - 🌱 Always improving my skills in **Python, web technologies, and security research**
 - 🎯 Currently learning about OSINT and Offensive Security
 - 🚀 Open to collaboration on interesting open-source projects
-
+- 📫 Contact & links [here](https://urdev.carrd.co)
 
 <details open>
   <summary><h2>🔥 Top 3 Repos of the Day</h2></summary>
