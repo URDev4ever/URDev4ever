@@ -11,13 +11,22 @@
 </p>
 
 <h1 align="center">[ ! ] Sobre mí</h1>
+<img
+  width="256"
+  height="256"
+  alt="img"
+  align="right"
+  style="margin-top:+40px; margin-right:-20px;"
+  src="https://github.com/user-attachments/assets/edeaae93-3b8c-41a2-974c-3a3e1053246a"
+/>
 
 - 👋 Hola, soy **URDev** — desarrollo herramientas enfocadas en **seguridad, automatización y utilidades para desarrolladores**
 - 🔍 Interesado en **seguridad web**, análisis de solicitudes y herramientas de reconocimiento livianas
 - 🛠 Disfruto crear **herramientas CLI**, experimentos y proyectos prácticos
 - 🌱 Siempre mejorando mis habilidades en **Python, tecnologías web e investigación en seguridad**
-- 🎯 Actualmente aprendiendo sobre OSINT y Seguridad Ofensiva
-- 🚀 Abierto a colaborar en proyectos open-source interesantes
+- 🎯 Actualmente aprendiendo sobre **OSINT** y **Seguridad Ofensiva**
+- 🚀 Abierto a **colaborar** en proyectos open-source interesantes
+- 📫 Contacto y links [aqui](https://urdev.carrd.co)
 
 
 <details open>
