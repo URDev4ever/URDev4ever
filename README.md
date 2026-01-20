@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=>_+Hi!+I'm+URDev+:D;Welcome+to+my+profile+%3C3;Drop+a+follow!+:P" alt="Title"></img>
   </a>
 </div>
-<div align="center">
-<a href="https://github.com/URDev4ever?tab=followers">
-    <img alt="followers" title="Follow me on Github :D" src="https://custom-icon-badges.demolab.com/github/followers/URDEv4ever?color=236AD3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">[ ! ] About Me</h1>
