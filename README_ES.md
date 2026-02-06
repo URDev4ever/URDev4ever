@@ -33,12 +33,12 @@
   <summary><h2>🔥 Top 3 Repositorios del Día</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/URDev4ever/whythis">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=whythis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
-    <a href="https://github.com/URDev4ever/skullr">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=skullr&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
-    <a href="https://github.com/URDev4ever/limsy">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=limsy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/static">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=static&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/IPFinder">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=IPFinder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/logic-injection-payloads">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=logic-injection-payloads&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
   </p>
 </details>
 
