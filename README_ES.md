@@ -33,12 +33,12 @@
   <summary><h2>🔥 Top 3 Repositorios del Día</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/URDev4ever/RoverCrawler">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=RoverCrawler&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/limsy">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=limsy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/UIT">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=UIT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
     <a href="https://github.com/URDev4ever/ReCapture">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ReCapture&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
-    <a href="https://github.com/URDev4ever/static">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=static&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
   </p>
 </details>
 
