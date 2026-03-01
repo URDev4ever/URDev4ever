@@ -80,8 +80,8 @@
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=UIT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
      <a href="https://github.com/URDev4ever/FUFP">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=FUFP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
-      <a href="https://github.com/URDev4ever/logic-injection-payloads">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=logic-injection-payloads&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+      <a href="https://github.com/URDev4ever/LIP">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=LIP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
       <a href="https://github.com/URDev4ever/LATT">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=LATT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
     </p>
