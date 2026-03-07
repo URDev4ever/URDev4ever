@@ -33,12 +33,12 @@
   <summary><h2>🔥 Top 3 Repositorios del Día</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/URDev4ever/IPFinder">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=IPFinder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
-    <a href="https://github.com/URDev4ever/ReqEye">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ReqEye&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
-    <a href="https://github.com/URDev4ever/ScopeX">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ScopeX&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/jwtelescope">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=jwtelescope&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/clientvault">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=clientvault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/ReCapture">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=ReCapture&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
   </p>
 </details>
 
