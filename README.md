@@ -125,6 +125,14 @@
     </p>
   </details>
 
+  <details>
+    <summary><h3>🦈 Forked Repos</h3></summary>
+    <p>
+      <a href="https://github.com/URDev4ever/fish-speech">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=fish-speech&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    </p>
+  </details>
+
 </details>
 
 
