@@ -33,12 +33,12 @@
   <summary><h2>🔥 Top 3 Repositorios del Día</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/URDev4ever/limsy">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=limsy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
-    <a href="https://github.com/URDev4ever/clientvault">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=clientvault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
-    <a href="https://github.com/URDev4ever/PyGenPass">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=PyGenPass&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/Simple-C-cmd">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=Simple-C-cmd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/RoverCrawler">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=RoverCrawler&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
+    <a href="https://github.com/URDev4ever/Simple-asm-cmd">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=URDev4ever&repo=Simple-asm-cmd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true" /></a>
   </p>
 </details>
 
